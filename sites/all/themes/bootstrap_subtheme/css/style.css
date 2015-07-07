@@ -1,0 +1,26 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+.view-id-sample_layout_for_news{
+
+}
+.view-id-sample_layout_for_news ul{
+list-style:none;
+}
+.view-id-sample_layout_for_news ul li{
+    margin-top:20px;
+}
+.view-id-sample_layout_for_news .views-field-field-image{
+float:left;
+margin-right:20px;
+}
+.view-id-sample_layout_for_news .views-field-title{
+
+}
+.view-id-sample_layout_for_news .views-field-body{
+
+}
+.view-id-sample_layout_for_news.views-field-view-node{
+
+}

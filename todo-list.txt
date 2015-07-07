@@ -1,0 +1,23 @@
+Các phần phải làm , chuẩn bi cho website:
+- Một website hoặc demo site trên localhost để thực hành.
+- Module cần có : modules này sẽ được đóng gói và đặt link để các bạn tiện get về
+- database : trong source mình có để database, nếu bạn nào hay chuyển database hoặc deploy sẽ hiểu sao mình 
+export database như vậy, còn các bạn mới cứ import file drupal_dev_full_module.sql.zip là đủ, và cấu hình trong 
+phần settings
+
+	- drupal_dev.sql.zip
+	- drupal_dev_data_no_cache.sql.zip
+	- drupal_dev_full_module.sql.zip
+	- drupal_dev_structure.sql.zip
+
+- Các bước làm : 
+	1. Chuẩn bị bài viết , có thể dùng module devel để tạo bài viết hoặc tự tạo vài biết qua content 
+	type là Article vì có phần image hiển thị
+	2. Tạo view cho bài viết
+		- Tại sao lại dùng view, khi các bạn làm việc với dữ liệu thông qua code như tạo module, tạo theme,
+		tạo block, hiển thị.... chưa quen thì các bạn làm view cũng là ưu điểm, nhưng mình không khuyến khích 
+		có thể mình không thích lắm, nhưng nhìn lại trực quan và nhanh.
+	3. Sau khi có data và có view, bước cuối cùng là style.
+
+	Start===> 
+	thông tin đăng nhập : admin/admin123
